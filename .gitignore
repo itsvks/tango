@@ -63,3 +63,5 @@ target/
 
 # DB
 *.sqlite3
+
+*.DS_Store
